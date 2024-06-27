@@ -28,7 +28,7 @@ Welcome to the Quiz App! This project is a simple and interactive quiz applicati
 </div>
 
 ## Screenshots
-![Quiz App Screenshot](screenshot.png)
+![Quiz App Screenshot]()
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
@@ -72,4 +72,4 @@ To get a local copy up and running, follow these simple steps:
 
 ---
 
-Feel free to customize it further based on your specific project details!
+
