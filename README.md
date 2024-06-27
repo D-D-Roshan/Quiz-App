@@ -9,7 +9,7 @@ Welcome to the Quiz App! This project is a simple and interactive quiz applicati
 ## Table of Contents
 - [Features](#features)
 - [Technologies used](#technologies-used)
-- [Screenshots](#screenshots)
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -27,8 +27,7 @@ Welcome to the Quiz App! This project is a simple and interactive quiz applicati
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=vscode"/>
 </div>
 
-## Screenshots
-![Quiz App Screenshot]()
+
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
