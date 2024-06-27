@@ -17,8 +17,6 @@ Welcome to the Quiz App! This project is a simple and interactive quiz applicati
 
 ## Features
 - **User-friendly Interface:** Easy-to-navigate design for a smooth user experience.
-- **Dynamic Questions:** Questions are displayed dynamically from a pre-defined list.
-- **Real-time Feedback:** Users receive immediate feedback on their answers.
 - **Score Tracking:** Keeps track of the user's score and displays it at the end of the quiz.
 
 ## Technologies used
